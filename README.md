@@ -1,2 +1,2 @@
-# -rmtrepo1
+# rmtrepo1
 #fgsfgsdfg
